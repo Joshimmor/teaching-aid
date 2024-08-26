@@ -12,7 +12,6 @@ export default function Navbar() {
     return (
         <>
           <div className="w-[95vw] hidden  p-6 sm:flex flex-row justify-between">
-            <LogoLink />
             <DesktopNavLinks />
           </div>
           <div className=" w-[95vw] sm:hidden  flex flex-row my-4">

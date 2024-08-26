@@ -4,7 +4,7 @@ export function LogoLink() {
   return (
 
       <Link href="/">
-        Mr. Immordino's Class
+        Mr. Immordinos Class
       </Link>
 
   );
